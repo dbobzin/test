@@ -1,0 +1,7 @@
+[user]
+	email = dbobzin@ilstu.edu
+	name = Dustin
+[credential]
+	helper = /mnt/c/Program\\ Files/Git/mingw64/libexec/git-core/git-credential-manager.exe
+[credential "https://dev.azure.com"]
+	useHttpPath = true
